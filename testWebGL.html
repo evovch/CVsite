@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Thanks to W3Schools.com -->
+<!-- This helps to keep the side pane in a separate HTML file -->
+<script src="w3data.js"></script>
+
+<head>
+    <!-- In order to show russian letters -->
+    <meta charset="utf-8"/>
+
+    <!-- Script for random colors in the left navigation pane -->
+    <script src="rndColor.js"></script>
+
+    <!-- WebGL code there -->
+    <script src="sylvester.js" type="text/javascript"></script>
+    <script src="glUtils.js" type="text/javascript"></script>
+    <script src="gl.js"></script>
+
+    
+
+    <script id="shader-vs" type="x-shader/x-vertex">
+        attribute vec3 aVertexPosition;
+        attribute vec4 aVertexColor;
+
+        uniform mat4 uMVMatrix;
+        uniform mat4 uPMatrix;
+
+        varying lowp vec4 vColor;
+
+        void main(void) {
+            gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
+            vColor = aVertexColor;
+        }
+    </script>
+
+    <script id="shader-fs" type="x-shader/x-fragment">
+        varying lowp vec4 vColor;
+        void main(void) {
+            gl_FragColor = vColor;
+        }
+    </script>
+
+
+    <!-- External CSS style file -->
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+<body onload="start()">
+    <!-- Left navigation pane -->
+    <!-- Thanks to W3Schools.com -->
+    <div w3-include-html="side_pane.html"></div> 
+    <script>w3IncludeHTML();</script>
+
+    <!-- Main content of this page -->
+    <div style="margin-left:15%;padding:0px 0px;color:black;" id="mainContent">
+        <canvas id="glcanvas" style="width: 85vw;height: 100vh;display: block;">
+            Your browser doesn't appear to support the HTML5 <code>&lt;canvas&gt;</code> element.
+        </canvas>
+    </div>
+
+</body>
+
+</html>

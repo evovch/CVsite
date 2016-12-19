@@ -1,0 +1,256 @@
+<publications>
+
+	<item>
+		<doi>10.1088/1742-6596/513/5/052025</doi>
+		<name>Parallelization of particle transport using Intel (R) TBB</name>
+		<journal>JPCS</journal>
+		<authors>J. Apostolakis, S. Belogurov, R. Brun, F. Carminati, A. Gheata, E.Ovcharenko, S. Wenzel</authors>
+		<contribution>Main author</contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1302149</link>
+			<link site="Full text">pdf_server.php?file=../pdf/jpconf14_513_052025.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1088/1742-6596/331/3/032035</doi>
+		<name>CATIA-GDML geometry builder</name>
+		<journal>JPCS</journal>
+		<authors>S. Belogurov, Yu. Berchun, A. Chernogorov, P. Malzacher, E. Ovcharenko, A. Semennikov</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1111467</link>
+			<link site="ResearchGate">https://www.researchgate.net/publication/231020341</link>
+			<link site="Full text">pdf_server.php?file=../pdf/jpconf11_331_032035.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1088/1742-6596/513/2/022003</doi>
+		<name>Development and application of CATIA-GDML geometry builder</name>
+		<journal>JPCS</journal>
+		<authors>S. Belogurov, Yu. Berchun, A. Chernogorov, P. Malzacher, E. Ovcharenko, V. Schetinin</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1301942</link>
+			<link site="ResearchGate">https://www.researchgate.net/publication/263050235</link>
+			<link site="Full text">pdf_server.php?file=../pdf/jpconf14_513_022003.pdf</link>
+		</links>
+	</item>
+
+
+	<item>
+		<doi>10.1016/j.nima.2015.02.014</doi>
+		<name>Influence of wavelength-shifting films on multianode PMTs with UV-extended windows</name>
+		<journal>NIM A</journal>
+		<authors>J. Adamczewski-Musch, K.-H. Becker, S. Belogurov, N. Boldyreva, A. Chernogorov, C. Deveaux, V. Dobyrn, M. Dürr, J. Eom, J. Eschke, C. Höhne, K.-H. Kampert, V. Kleipa, L. Kochenda, B. Kolb, J. Kopfer, P. Kravtsov, S. Lebedev, E. Lebedeva, E. Leonova, S. Linev, T. Mahmoud, J. Michel, N. Miftakhov, Y. Nam, W. Niebur, K. Oh, E. Ovcharenko, C. Pauly, J. Pouryamout, S. Querchfeld, J. Rautenberg, S. Reinecke, Y. Riabov, E. Roshchin, V. Samsonov, J. Song, O. Tarasenkova, T. Torres de Heidenreich, M. Traxler, C. Ugur, E. Vznuzdaev, M. Vznuzdaev, J. Yi, I.-K. Yoo</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1352051</link>
+			<link site="ScienceDirect">http://www.sciencedirect.com/science/article/pii/S0168900215001953</link>
+			<link site="Full text">pdf_server.php?file=../pdf/1-s2.0-S0168900215001953-main.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1016/j.nima.2014.04.082</doi>
+		<name>Event reconstruction in the RICH detector of the CBM experiment at FAIR</name>
+		<journal>NIM A</journal>
+		<authors>J. Adamczewski, K.-H. Becker, S. Belogurov, N. Boldyreva, A. Chernogorov, C. Deveaux, V. Dobyrn, M. Dürr, J. Eom, J. Eschke, C. Höhne, K.-H. Kampert, V. Kleipa, L. Kochenda, B. Kolb, J. Kopfer, P. Kravtsov, S. Lebedev, E. Lebedeva, E. Leonova, S. Linev, T. Mahmoud, J. Michel, N. Miftakhov, Y. Nam, W. Niebur, K. Oh, G. Ososkov, E. Ovcharenko, C. Pauly, J. Pouryamout, S. Querchfeld, J. Rautenberg, S. Reinecke, Y. Riabov, E. Roshchin, V. Samsonov, J. Song, O. Tarasenkova, T. Torres de Heidenreich, M. Traxler, C. Ugur, E. Vznuzdaev, M. Vznuzdaev, J. Yi, I.-K. Yoo</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1326754</link>
+			<link site="ScienceDirect">http://www.sciencedirect.com/science/article/pii/S0168900214004951</link>
+			<link site="Full text">pdf_server.php?file=../pdf/1-s2.0-S0168900214004951-main.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1016/j.nima.2014.04.074</doi>
+		<name>Determination of tolerances of mirror displacement and radiator gas impurity for the CBM RICH detector</name>
+		<journal>NIM A</journal>
+		<authors>J. Adamczewski-Musch, K.-H. Becker, S. Belogurov, N. Boldyreva, A. Chernogorov, C. Deveaux, V. Dobyrn, M. Dürr, J. Eom, J. Eschke, C. Höhne, K.-H. Kampert, V. Kleipa, L. Kochenda, B. Kolb, J. Kopfer, P. Kravtsov, S. Lebedev, E. Lebedeva, E. Leonova, S. Linev, T. Mahmoud, J. Michel, N. Miftakhov, Y. Nam, W. Niebur, K. Oh, E. Ovcharenko, C. Pauly, J. Pouryamout, S. Querchfeld, J. Rautenberg, S. Reinecke, Y. Riabov, E. Roshchin, V. Samsonov, J. Song, O. Tarasenkova, T. Torres de Heidenreich, M. Traxler, C. Ugur, E. Vznuzdaev, M. Vznuzdaev, J. Yi, I.-K. Yoo</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1326746</link>
+			<link site="ScienceDirect">http://www.sciencedirect.com/science/article/pii/S0168900214004872</link>
+			<link site="Full text">pdf_server.php?file=../pdf/1-s2.0-S0168900214004872-main.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1016/j.nima.2014.05.011</doi>
+		<name>Wavelength shifting films on multianode PMTs with UV-extended window for the CBM RICH detector</name>
+		<journal>NIM A</journal>
+		<authors>J. Adamczewski-Musch, K.-H. Becker, S. Belogurov, N. Boldyreva, A. Chernogorov, C. Deveaux, V. Dobyrn, M. Dürr, J. Eom, J. Eschke, C. Höhne, K.-H. Kampert, V. Kleipa, L. Kochenda, B. Kolb, J. Kopfer, P. Kravtsov, S. Lebedev, E. Lebedeva, E. Leonova, S. Linev, T. Mahmoud, J. Michel, N. Miftakhov, Y. Nam, W. Niebur, K. Oh, E. Ovcharenko, C. Pauly, J. Pouryamout, S. Querchfeld, J. Rautenberg, S. Reinecke, Y. Riabov, E. Roshchin, V. Samsonov, J. Song, O. Tarasenkova, T. Torres de Heidenreich, M. Traxler, C. Ugur, E. Vznuzdaev, M. Vznuzdaev, J. Yi, I.-K. Yoo</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1326738</link>
+			<link site="ScienceDirect">http://www.sciencedirect.com/science/article/pii/S0168900214005105</link>
+			<link site="Full text">pdf_server.php?file=../pdf/1-s2.0-S0168900214005105-main.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1016/j.nima.2014.05.071</doi>
+		<name>The CBM RICH project</name>
+		<journal>NIM A</journal>
+		<authors>J. Adamczewski-Musch, K.-H. Becker, S. Belogurov, N. Boldyreva, A. Chernogorov, C. Deveaux, V. Dobyrn, M. Dürr, J. Eom, J. Eschke, C. Höhne, K.-H. Kampert, V. Kleipa, L. Kochenda, B. Kolb, J. Kopfer, P. Kravtsov, S. Lebedev, E. Lebedeva, E. Leonova, S. Linev, T. Mahmoud, J. Michel, N. Miftakhov, Y. Nam, W. Niebur, K. Oh, E. Ovcharenko, C. Pauly, J. Pouryamout, S. Querchfeld, J. Rautenberg, S. Reinecke, Y. Riabov, E. Roshchin, V. Samsonov, J. Song, O. Tarasenkova, T. Torres de Heidenreich, M. Traxler, C. Ugur, E. Vznuzdaev, M. Vznuzdaev, J. Yi, I.-K. Yoo</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1326721</link>
+			<link site="ScienceDirect">http://www.sciencedirect.com/science/article/pii/S0168900214006111</link>
+			<link site="Full text">pdf_server.php?file=../pdf/1-s2.0-S0168900214006111-main.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi>10.1088/1748-0221/9/06/C06002</doi>
+		<name>The CBM-RICH detector</name>
+		<journal>JINST</journal>
+		<authors>J. Adamczewski, K.-H. Becker, S. Belogurov, N. Boldyreva, A. Chernogorov, C. Deveaux, V. Dobyrn, M. Dürr, J. Eom, J. Eschke, C. Höhne, K.-H. Kampert, V. Kleipa, L. Kochenda, B. Kolb, J. Kopfer, P. Kravtsov, S. Lebedev, E. Lebedeva, E. Leonova, S. Linev, T. Mahmoud, J. Michel, N. Miftakhov, Y. Nam, W. Niebur, K. Oh, E. Ovcharenko, C. Pauly, J. Pouryamout, S. Querchfeld, J. Rautenberg, S. Reinecke, Y. Riabov, E. Roshchin, V. Samsonov, J. Song, O. Tarasenkova, T. Torres de Heidenreich, M. Traxler, C. Ugur, E. Vznuzdaev, M. Vznuzdaev, J. Yi and I.-K. Yoo</authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP">http://inspirehep.net/record/1299393</link>
+			<link site="ResearchGate">https://www.researchgate.net/publication/278323460</link>
+			<link site="Full text">pdf_server.php?file=../pdf/2014_JINST_9_C06002.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Technical Design Report for the CBM Ring Imaging Cherenkov Detector</name>
+		<journal></journal>
+		<authors></authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<link site="GSI repository">http://repository.gsi.de/record/65526</link>
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Update of the MC-geometry of the RICH detector</name>
+		<journal>2015 CBM progress report</journal>
+		<authors>E. Ovcharenko, S. Lebedev, T. Mahmoud, C. Pauly, Yu. Ryabov, C. Hoehne, V. Schetinin</authors>
+		<contribution>Main author</contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<link site="Full article text">pdf_server.php?file=../pdf/CBM2015_RICH_geometry_update.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Development of the magnetic shielding box for the CBM RICH camera</name>
+		<journal>2015 CBM progress report</journal>
+		<authors>E. Ovcharenko, P. Akishin, C. Pauly, T. Mahmoud, Yu. Ryabov, C. Hoehne, V. Schetinin</authors>
+		<contribution>Main author</contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<link site="Full article text">pdf_server.php?file=../pdf/CBM2015_RICH_shielding_box.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Study of p-terphenyl WLS effect on timing in the CBM RICH prototype</name>
+		<journal>2015 CBM progress report</journal>
+		<authors>E. Ovcharenko, S. Belogurov, C. Pauly</authors>
+		<contribution>Main author</contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<link site="Full article text">pdf_server.php?file=../pdf/CBM2015_RICH_WLS_timing.pdf</link>
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Development of software tools for the prototype readout chains of the CBM Silicon Tracking System</name>
+		<journal>2014 CBM progress report</journal>
+		<authors>I. Sorokin, M. Krieger, J. Lehnert, W.F.J. Mueller, E. Ovcharenko, F. Uhlig</authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<!--<link site="Full article text"></link>-->
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Different layouts of a mirror support structure for the RICH detector</name>
+		<journal>2014 CBM progress report</journal>
+		<authors>S. Lebedev, E. Ovcharenko, C. Hoehne, Y. Ryabov</authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<!--<link site="Full article text"></link>-->
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Data analysis for the RICH prototype beamtest data 2014</name>
+		<journal>2014 CBM progress report</journal>
+		<authors>S. Lebedev, E. Ovcharenko, C. Hoehne</authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<!--<link site="Full article text"></link>-->
+		</links>
+	</item>
+	
+	<item>
+		<doi></doi>
+		<name>Parameterized geometric model of the updated CBM RICH detector</name>
+		<journal>2013 CBM progress report</journal>
+		<authors>E. Ovcharenko, S. Belogurov, C. Hoehne, S. Lebedev, T. Mahmoud, V. Schetinin</authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<!--<link site="Full article text"></link>-->
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>Overview of the RICH-prototype beam test 2012 at the CERN-PS</name>
+		<journal>2012 CBM progress report</journal>
+		<authors></authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<!--<link site="Full article text"></link>-->
+		</links>
+	</item>
+
+	<item>
+		<doi></doi>
+		<name>HADES trbnet data formats for DABC and Go4</name>
+		<journal>2012 GSI scientific report</journal>
+		<authors>J. Adamczewski-Musch, S. Linev, E. Ovcharenko, C. Ugur</authors>
+		<contribution></contribution>
+		<links>
+			<!--<link site="Full report text (massive)"></link>-->
+			<!--<link site="Full article text"></link>-->
+		</links>
+	</item>
+
+</publications>
+
+<!--
+	<item>
+		<doi></doi>
+		<name></name>
+		<journal></journal>
+		<authors></authors>
+		<contribution></contribution>
+		<links>
+			<link site="InspireHEP"></link>
+			<link site="ResearchGate"></link>
+			<link site="ScienceDirect"></link>
+			<link site="Full text"></link>
+		</links>
+	</item>
+-->

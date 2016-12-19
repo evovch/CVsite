@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+}
+
+/* Styles for the list and list items in the left navigation pane */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #F1F1F1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a.passive {
+    display: block;
+    color: #000000;
+    font-weight: normal;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#nameHeader {
+    background-image:url(pics/space2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align:center;
+    padding: 11%;
+    margin: 0;
+    color:white;
+}
+
+#nameFooter {
+    background-image:url(pics/space2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align:center;
+    padding: 11%;
+    margin: 0;
+    color:white;
+}

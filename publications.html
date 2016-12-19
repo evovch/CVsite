@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Thanks to W3Schools.com -->
+<!-- This helps to keep the side pane in a separate HTML file -->
+<script src="w3data.js"></script>
+
+<!-- An external script to build an HTML table from an XML file -->
+<script src="XmlToTable.js"></script>
+
+<head>
+    <!-- In order to show russian letters -->
+    <meta charset="utf-8"/>
+
+    <!-- Script for random colors in the left navigation pane -->
+    <script src="rndColor.js"></script>
+
+    <!-- External CSS style file -->
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+<body>
+    <!-- Left navigation pane -->
+    <!-- Thanks to W3Schools.com -->
+    <div w3-include-html="side_pane.html"></div> 
+    <script>w3IncludeHTML();</script>
+
+    <!-- Main content of this page -->
+    <div style="margin-left:15%;padding:1px 16px;color:black;" id="mainContent">
+        <!-- Filled by the Java Script -->
+    </div>
+
+    <script>
+        // Read the input XML file and call for the XML->table conversion
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                var tableHtml = XmlToTable(this);
+                document.getElementById('mainContent').innerHTML = tableHtml;
+            }
+        };
+        xhttp.open("GET", "publications_source.xml", true);
+        xhttp.send();
+    </script>
+
+</body>
+
+</html>
